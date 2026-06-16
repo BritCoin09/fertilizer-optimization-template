@@ -4,9 +4,8 @@ A reusable project template for building your own fertilizer optimization model 
 
 This template provides the full workflow structure from the original project, without the crop‑specific results, so you can plug in your own dataset, run the analysis, and generate your own insights.
 
-🔗 Open Template in Google Colab  
+🔗 [Open Template in Google Colab](https://colab.research.google.com/drive/1p-8h1lSHVfpVm6NOH09ZNxbdVx9CKs1d)
 
-https://colab.research.google.com/drive/1p-8h1lSHVfpVm6NOH09ZNxbdVx9CKs1d
 
 🎥 Project Walkthrough Videos
 
