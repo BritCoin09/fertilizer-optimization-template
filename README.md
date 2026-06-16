@@ -7,10 +7,12 @@ This template provides the full workflow structure from the original project, wi
 🎥 Project Walkthrough Videos
 
 • **Template Notebook Walkthrough**  
-  [Watch on YouTube](https://youtu.be/iBlmUMO7Ltc?si=HvXmGff6cJEZS5PH)
+
+  [Watch on YouTube](https://www.youtube.com/watch?v=iBlmUMO7Ltc)
 
 • **Full Project Walkthrough**  
-  [Watch on YouTube](https://www.youtube.com/watch?v=iBlmUMO7Ltc)
+
+  [Watch on YouTube](https://www.youtube.com/watch?v=gJ0e2b01sNo)
 
 ### 📁 What This Template Includes
 
