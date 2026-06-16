@@ -4,6 +4,12 @@ A reusable project template for building your own fertilizer optimization model 
 
 This template provides the full workflow structure from the original project — without the crop‑specific results, so you can plug in your own dataset, run the analysis, and generate your own insights.
 
+🎥 Project Walkthrough Videos
+
+[![Template Walkthrough](https://img.youtube.com/vi/iBlmUMO7Ltc/0.jpg)](https://youtu.be/iBlmUMO7Ltc?si=HvXmGff6cJEZS5PH)
+
+[![Full Project Walkthrough](https://img.youtube.com/vi/iBlmUMO7Ltc/0.jpg)](https://www.youtube.com/watch?v=iBlmUMO7Ltc)
+
 ### 📁 What This Template Includes
 
 A ready‑to‑use notebook with:
@@ -57,10 +63,6 @@ These colors are already built into the template:
 - Phosphorus (P): #8D6E63
 
 - Potassium (K): #F9A825
-
-### 📊 Template Notebook
-
-Upload your .ipynb file here — this README is already set up to support it.
 
 📬 Contact
 
