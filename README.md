@@ -2,7 +2,7 @@
 
 A reusable project template for building your own fertilizer optimization model using global crop and nutrient data.
 
-This template provides the full workflow structure from the original project — without the crop‑specific results, so you can plug in your own dataset, run the analysis, and generate your own insights.
+This template provides the full workflow structure from the original project, without the crop‑specific results, so you can plug in your own dataset, run the analysis, and generate your own insights.
 
 🎥 Project Walkthrough Videos
 
