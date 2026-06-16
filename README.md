@@ -1,37 +1,40 @@
-🌱 Fertilizer Optimization — Template Notebook
+# 🌱 Fertilizer Optimization — Template Notebook
+
 A reusable project template for building your own fertilizer optimization model using global crop and nutrient data.
 
-This template provides the full workflow structure from the original project — without the crop‑specific results — so you can plug in your own dataset, run the analysis, and generate your own insights.
+This template provides the full workflow structure from the original project — without the crop‑specific results, so you can plug in your own dataset, run the analysis, and generate your own insights.
 
-📁 What This Template Includes
+### 📁 What This Template Includes
+
 A ready‑to‑use notebook with:
 
-Data import + cleaning structure
+- Data import + cleaning structure
 
-EDA section with placeholder cells
+- EDA section with placeholder cells
 
-Custom nutrient color palette
+- Custom nutrient color palette
 
-Polynomial regression modeling pipeline
+- Polynomial regression modeling pipeline
 
-Optimization calculation framework
+- Optimization calculation framework
 
-Visualization layout
+- Visualization layout
 
-Interpretation + insights section
+- Interpretation + insights section
 
-Clear TODO markers so you know exactly where to add your own data
+- Clear TODO markers so you know exactly where to add your own data
 
-🧩 Who This Template Is For
-Data science students
+### 🧩 Who This Template Is For
 
-Portfolio builders
+- Data science students
 
-Agronomy / sustainability learners
+- Portfolio builders
 
-Anyone wanting to recreate or extend the fertilizer optimization workflow
+- Agronomy / sustainability learners
 
-# 🚀 How to Use This Template
+- Anyone wanting to recreate or extend the fertilizer optimization workflow
+
+### 🚀 How to Use This Template
 
 - Open the notebook in Google Colab or Jupyter
 
